@@ -1,2 +1,3 @@
-## Hi there 👋
-[![Thijs GitHub stats](https://github-readme-stats.vercel.app/api?username=wavyrai)](https://github.com/anuraghazra/github-readme-stats)
+## Hi! My name is Thijs
+
+I'm focussed on the intersection between AI, Design and Engineering. 
